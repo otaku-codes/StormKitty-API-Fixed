@@ -74,7 +74,7 @@ By using this software, you automatically agree to the above.
 * Insert this data in builder console
 
 <p align="center">
-  <img src="Images/Builder.jpg">
+  <img src="Images/Builders.jpg">
 </p>
 
 ## :robot: [Download compiled builder](#)
