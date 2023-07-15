@@ -2,6 +2,15 @@
   <b>Stealer + Clipper + Keylogger</b> <br>
 </p>
 
+
+***
+
+# :construction: Disclaimer
+I am not responsible for any actions, and or damages, caused by this software always use this in a Virtual Machine or RDp never use it on your main compture.
+You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only.
+This software's main purpose is NOT to be used maliciously, or on any system that you do not own, or have the right to use.
+By using this software, you automatically agree to the above.
+
 ***
 
 # ✅ Important Note:
@@ -16,14 +25,6 @@ This is tweaked version of Old Stromkitty by Limerboy. In this i have fixed the 
 Here are some ideas i would like to implement in future or if anyone want to work on this repo.
 - [x] Add cookies grabber.
 - [x] Fix bugs in autorun and some other features.
-
-***
-
-# :construction: Disclaimer
-I am not responsible for any actions, and or damages, caused by this software always use this in a Virtual Machine or RDp never use it on your main compture.
-You bear the full responsibility of your actions and acknowledge that this software was created for educational purposes only.
-This software's main purpose is NOT to be used maliciously, or on any system that you do not own, or have the right to use.
-By using this software, you automatically agree to the above.
 
 ***
 
