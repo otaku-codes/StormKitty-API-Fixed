@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="Images/logo.png"> <br>
-  <b>Stealer + Clipper + Keylogger</b> <br>
-  <i>Stealer written on C#, logs will be sent to Telegram bot.</i>
-</p>
-
 ***
 
 # ✅ Important Note:
