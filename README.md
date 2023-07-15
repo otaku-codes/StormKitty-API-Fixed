@@ -1,3 +1,7 @@
+<p align="center">
+  <b>Stealer + Clipper + Keylogger</b> <br>
+</p>
+
 ***
 
 # ✅ Important Note:
