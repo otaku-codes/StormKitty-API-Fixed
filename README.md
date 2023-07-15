@@ -76,7 +76,7 @@ Here are some ideas i would like to implement in future or if anyone want to wor
   <img src="Images/Builders.jpg">
 </p>
 
-## :robot: [Download compiled builder](https://github.com/otaku-codes/StormKitty-Tweaked/releases/download/stromkitty/Stromkitty.By.otaku_codes.rar)
+## :robot: [Download compiled builder  (Password: otaku_codes)](https://github.com/otaku-codes/StormKitty-Tweaked/releases/download/stromkitty/Stromkitty.By.otaku_codes.rar)
 
 ***
 
