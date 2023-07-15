@@ -10,7 +10,7 @@
 This is tweaked version of Old Stromkitty by Limerboy. In this i have fixed the main api bug that broke whole application and added some new features. 
 - [x] Fixed  the bug in old upload API call of anonfile where it was not parsing Json properly by making a new req that does uses dotnet package.
 - [x] Added a feature that detect if the victim is using RDP and the send RDP details along with IP + Password to telegram.
-- [x] Some minor bug fixes.
+- [x] Some minor bug fixes. 
 
 ***
 
