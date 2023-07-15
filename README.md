@@ -97,5 +97,6 @@ By using this software, you automatically agree to the above.
 ***
 
 # :purple_heart: Special Thanks :
-* [LimerBoy](https://github.com/LimerBoy/StormKitty)
-* [RL Shop](#)
+
+* [LimerBoy](https://github.com/LimerBoy)
+* [Visit Orignal Publisher](https://github.com/LimerBoy/StormKitty)
