@@ -23,7 +23,7 @@ This is tweaked version of Old Stromkitty by Limerboy. In this i have fixed the 
 
 # 🤞 Future Goals / Ideas:
 Here are some ideas i would like to implement in future or if anyone want to work on this repo.
-- [x] Add/Fix cookies grabber.
+- [x] Fix cookies grabber.
 - [x] Fix bugs in autorun and some other features.
 
 ***
